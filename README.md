@@ -18,8 +18,8 @@ And of course some run configurations
 ## How to use it
 
   * Get [BetterTouchTool](https://www.boastr.net)
-  * Get the [config file](btt-android-studio-config.json)
-  * Import the latter in the first
+  * Get the [config file](btt-android-studio-config.json?raw=true)
+  * Import the config file into BTT by going to Preferences->Manage Presets->Import
   * Switch to Android Studio
   * Profit
 
