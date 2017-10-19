@@ -3,8 +3,8 @@
   "BTTPresetUUID" : "B89E9BE6-6970-44AF-AE40-43A389F07C70",
   "BTTPresetContent" : [
     {
-      "BTTAppBundleIdentifier" : "com.google.android.studio-EAP",
-      "BTTAppName" : "Android Studio EAP",
+      "BTTAppBundleIdentifier" : "com.google.android.studio",
+      "BTTAppName" : "Android Studio",
       "BTTAppSpecificSettings" : {
         "BTTTouchBarMode" : 2
       },
