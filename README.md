@@ -23,10 +23,6 @@ And of course some run configurations
   * Switch to Android Studio
   * Profit
 
-## Known limitations
-
-The current configuration is set to work with the Android Studio EAP.
-
 ### Support
 
 Pull requests and issues are encouraged.
