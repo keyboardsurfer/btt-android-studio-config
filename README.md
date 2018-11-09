@@ -22,6 +22,9 @@ And of course some run configurations
   * Import the config file into BTT by going to Preferences->Manage Presets->Import
   * Switch to Android Studio
   * Profit
+  
+## Android Studio Canary
+If you are using Android Studio Canary, use [the canary configuration](btt-android-studio-canary-config.json?raw=true) instead.
 
 ### Support
 
